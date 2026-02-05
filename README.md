@@ -36,7 +36,7 @@ This system integrates **real third-party APIs** to fetch live data:
    - Uses **Wikipedia / DuckDuckGo** for definitions, creator information, and general knowledge
 
 3. **LLM Brain**
-   - Powered by **Google Gemini 1.5 Flash** for fast, structured reasoning and decision-making
+   - Powered by **Google Gemini Flash** for fast, structured reasoning and decision-making
 
 ---
 
