@@ -6,7 +6,6 @@ def github_repo_search(query: str):
     """
     Finds the official GitHub repository for a project.
     """
-    # 1. CLEAN THE QUERY
     stop_words = ["search for", "find", "the", "repository", "details", "repo", "about", "information"]
     clean_query = query.lower()
     for word in stop_words:
